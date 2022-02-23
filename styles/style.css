@@ -1,0 +1,5 @@
+.jumbotron {
+  background-image: url("../images/jumbotron.jpeg");
+  background-size: cover;
+  background-position: center top;
+}
